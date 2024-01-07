@@ -1,2 +1,2 @@
-# desafio-java-1
-Primeiro projeto em Java, que consiste em controlar uma conta bancária virtual
+# challenge-java-1
+First project in Java, which consists of controlling a virtual bank account
